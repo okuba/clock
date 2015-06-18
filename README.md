@@ -15,6 +15,7 @@ java -jar clock.jar [OPTIONS]
   -hh (--more-help)           : print detail help message. (default: false)
   -tz (--timezone) <TIMEZONE> : Specifies time zone. Default is local time.
   -v (--version)              : show version. (default: false)
+  -lc(--long-hand-color)      : 長針の針の色を指定する
 ```
 
 ## タイムゾーン
